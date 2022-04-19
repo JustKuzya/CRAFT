@@ -12,7 +12,7 @@ If you have not configured the upstream, it will not appear in this list.
 To add the OSCAL repo as a remote named "upstream":
 
 ```
-git remote add upstream https://github.com/usnistgov/OSCAL.git
+git remote add upstream https://github.com/iMichaela/CRAFT/CRAFT.git
 ```
 
 ## Update local master branch
